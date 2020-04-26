@@ -8,7 +8,7 @@ variable "vcd_system_org" {type = string}
 variable "vcd_allow_unverified_ssl" {default = true}
 variable "vcenter" {type = string}
 # Variable for all the Login details - End
-#=====================================================
+#=====================================================›
 
 #2.=====================================================
 # Variable for Configure client organisation - Start
@@ -158,6 +158,6 @@ variable "catalog_vapp_vm_type" {}
 variable "catalog_vapp_vm_template" {}
 variable "catalog_ip_allocation_mode" {}
 # Variable catalog vapp adding VM for org vapp vm - End
-#===================================================== */
+#===================================================== 
 
 

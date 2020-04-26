@@ -1,9 +1,9 @@
 #1.===========================================================================
 # Default Login details for VCD as admin - Start
 vcd_username = "administrator"
-vcd_password = "Shaswati@0210"
-vcenter = "BDL-01"
-vcd_url = "https://cloud.cti-global.com/api"
+vcd_password = "password"
+vcenter = "vcenter which is visible in vcloud use the same name"
+vcd_url = "https://cloud.com/api"
 vcd_max_retry_timeout = "1"
 vcd_allow_unverified_ssl = "true"
 vcd_system_org = "system" 
@@ -54,7 +54,7 @@ retain_net_info_across_deployments = "false"
 # You have to type manually the organisation name
 client_org               = "Sandeep-Terra"
 client_admin_user        = "sandeep-admin"
-client_admin_password    = "VMware"
+client_admin_password    = "password here"
 client_user_role         = "Organization Administrator"
 enabled                  = "true"
 take_ownership           = "true"
